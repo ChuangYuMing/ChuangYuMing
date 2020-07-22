@@ -1,4 +1,3 @@
-### Hi there 👋
 
 ![image](https://github.com/ChuangYuMing/ChuangYuMing/blob/master/gitprofile.gif)
 
