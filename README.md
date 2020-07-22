@@ -1,5 +1,5 @@
 
-![image](https://github.com/ChuangYuMing/ChuangYuMing/blob/master/gitprofile.gif)
+![image](https://github.com/ChuangYuMing/ChuangYuMing/blob/master/profile-img.gif)
 
 <!--
 **ChuangYuMing/ChuangYuMing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
